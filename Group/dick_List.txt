@@ -1,0 +1,4 @@
+"Admin_Player":{"ID":"Admin_Player","Password":"APlayer_Pass","Name":"Test_Name#1234","Lv":1,"Xp":0,"XpMax":100}
+"Admin_Manager":{"ID":"Admin_Manager","Password":"AManager_Pass","Name":"Killer#1245","Lv":2,"Xp":12,"XpMax":200}
+"Test_ID":{"ID":"Test_ID","Password":"Test_Pass","Name":"Test_Name#1256","Lv":1,"Xp":0,"XpMax":100}
+"New_ID":{"ID":"New_ID","Password":"New_Pass","Name":"New_Name#1278","Lv":1,"Xp":0,"XpMax":100}
